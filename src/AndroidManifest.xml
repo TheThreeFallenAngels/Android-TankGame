@@ -27,6 +27,11 @@
             android:name="angels.tank.MainActivity"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
         </activity>
+        <activity
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:name=".GameMainActivity">
+            
+        </activity>
     </application>
 
 </manifest>

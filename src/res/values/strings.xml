@@ -3,5 +3,6 @@
 
     <string name="app_name">Tank</string>
     <string name="hello_world">Hello world!</string>
+    <string name="score">得分</string>
 
 </resources>
